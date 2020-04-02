@@ -1,0 +1,207 @@
+{
+  "project_info": {
+    "project_number": "595047150376",
+    "firebase_url": "https://kaiserkomputer.firebaseio.com",
+    "project_id": "kaiserkomputer",
+    "storage_bucket": "kaiserkomputer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595047150376:android:41dba2cdf1452aa2a2161d",
+        "android_client_info": {
+          "package_name": "com.example.anil.alrammanagerexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595047150376-24oel25uhoahkmf59buo70266tnqlj5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf9CDPurVG7xrquNyg5-BeRKf2XedstGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595047150376-24oel25uhoahkmf59buo70266tnqlj5q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "595047150376-fv7jue2kb50g71c93gla15665pj8htli.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.AH-Dynamics.hello"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595047150376:android:9e0c8912bd59f6dc",
+        "android_client_info": {
+          "package_name": "com.example.anil.campanion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595047150376-24oel25uhoahkmf59buo70266tnqlj5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf9CDPurVG7xrquNyg5-BeRKf2XedstGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595047150376-24oel25uhoahkmf59buo70266tnqlj5q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "595047150376-fv7jue2kb50g71c93gla15665pj8htli.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.AH-Dynamics.hello"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595047150376:android:b9b46742d3cb89bba2161d",
+        "android_client_info": {
+          "package_name": "com.example.kaisersentinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595047150376-h3v2tlipe3mnooik44im1mcqjur0h3sq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kaisersentinal",
+            "certificate_hash": "be932ea7f7b1486a2ba92bc0da5767ab915df4ad"
+          }
+        },
+        {
+          "client_id": "595047150376-24oel25uhoahkmf59buo70266tnqlj5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf9CDPurVG7xrquNyg5-BeRKf2XedstGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595047150376-24oel25uhoahkmf59buo70266tnqlj5q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "595047150376-fv7jue2kb50g71c93gla15665pj8htli.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.AH-Dynamics.hello"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595047150376:android:8931fa7b760aaeac",
+        "android_client_info": {
+          "package_name": "com.whitesuntech.aidohomerobot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595047150376-u8o4j5c63ac8k4dofc8dfnmv3k56svac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.whitesuntech.aidohomerobot",
+            "certificate_hash": "e2f912b98d000e4b1f29d81ac4d2d7af384bad16"
+          }
+        },
+        {
+          "client_id": "595047150376-24oel25uhoahkmf59buo70266tnqlj5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf9CDPurVG7xrquNyg5-BeRKf2XedstGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595047150376-24oel25uhoahkmf59buo70266tnqlj5q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "595047150376-fv7jue2kb50g71c93gla15665pj8htli.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.AH-Dynamics.hello"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595047150376:android:012e66c6a1a66eb4a2161d",
+        "android_client_info": {
+          "package_name": "techheromanish.example.com.videochatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595047150376-24oel25uhoahkmf59buo70266tnqlj5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf9CDPurVG7xrquNyg5-BeRKf2XedstGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595047150376-24oel25uhoahkmf59buo70266tnqlj5q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "595047150376-fv7jue2kb50g71c93gla15665pj8htli.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.AH-Dynamics.hello"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

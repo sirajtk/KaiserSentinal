@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/ascending"
+        android:icon="@drawable/ic_asc"
+        android:title="@string/Ascending" />
+    <item android:id="@+id/descending"
+        android:icon="@drawable/ic_des"
+        android:title="@string/descending"
+        app:showAsAction="ifRoom" />
+</menu>

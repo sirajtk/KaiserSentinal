@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="md_selected_background_color">#F5F5F5</color>
+    <color name="cell_background_color">#ffffff</color>
+    <color name="selected_background_color">@color/cell_background_color</color>
+    <color name="md_highlight_row_background_color">#EEEEEE</color>
+    <color name="shadow_background_color">#567890</color>
+    <color name="unselected_background_color">#098765</color>
+    <color name="bg_line">#808080</color>
+    <color name="header_line_color">@android:color/holo_red_light</color>
+    <color name="white">#ffffff</color>
+    <color name="blue">#5BAADA</color>
+</resources>

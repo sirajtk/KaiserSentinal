@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="lay" type="id"/>
+    <item name="horscroll" type="id"/>
+    <item name="scroll" type="id"/>
+</resources>

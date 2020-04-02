@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:fitsSystemWindows="true"
+    tools:context="ConfigActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Channels"
+            android:textAlignment="center"
+            android:textColor="@android:color/black"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <EditText
+
+        android:id="@+id/lvEdittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:hint="enter_no_of_channels"
+        android:textColor="@android:color/black" />
+
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/moverooms"
+        android:layout_width="179dp"
+        android:layout_height="wrap_content"
+
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="535dp"
+        android:layout_marginTop="180dp"
+        android:layout_marginEnd="26dp"
+        android:layout_marginBottom="237dp"
+        android:text=">>" />
+    <!--<EditText-->
+        <!--android:id="@+id/rrEdittext"-->
+        <!--android:layout_width="0dp"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_marginStart="8dp"-->
+        <!--android:layout_marginTop="12dp"-->
+        <!--android:layout_marginEnd="10dp"-->
+        <!--android:hint="Enter no of Rest Rooms"-->
+        <!--android:textColor="@android:color/black"-->
+        <!--app:layout_constraintEnd_toEndOf="parent"-->
+        <!--app:layout_constraintStart_toStartOf="parent"-->
+        <!--app:layout_constraintTop_toBottomOf="@+id/kEdittext" />-->
+
+<!--    <Button-->
+
+<!--        android:id="@+id/moverooms"-->
+<!--        android:layout_width="150dp"-->
+<!--        android:layout_height="137dp"-->
+<!--        android:layout_alignParentStart="true"-->
+<!--        android:layout_alignParentTop="true"-->
+<!--        android:layout_alignParentEnd="true"-->
+<!--        android:layout_alignParentBottom="true"-->
+<!--        android:layout_gravity="bottom|end"-->
+<!--        android:layout_marginStart="75dp"-->
+<!--        android:layout_marginTop="258dp"-->
+<!--        android:layout_marginEnd="264dp"-->
+<!--        android:layout_marginBottom="464dp"-->
+<!--        android:background="@color/white"-->
+<!--        android:backgroundTint="@color/blue"-->
+<!--        android:text=">>"-->
+<!--        app:elevation="6dp"-->
+<!--        app:pressedTranslationZ="12dp" />-->
+
+
+</RelativeLayout>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:id="@+id/relati"
+    >
+    <!--    <com.cleveroad.adaptivetablelayout.AdaptiveTableLayout-->
+    <!--        android:id="@+id/tableLayout"-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="match_parent"-->
+    <!--        app:cellMargin="1dp"-->
+    <!--        app:fixedHeaders="true"-->
+    <!--        app:solidRowHeaders="true"-->
+    <!--        app:dragAndDropEnabled="true"/>-->
+
+
+
+    <ScrollView
+        android:id="@+id/scroll1"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/linear">
+        <HorizontalScrollView
+            android:id="@+id/horscro1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <!--                <TableLayout-->
+            <!--                    android:layout_width="wrap_content"-->
+            <!--                    android:layout_height="wrap_content"-->
+            <!--                    android:id="@+id/tablee"/>-->
+
+        </HorizontalScrollView>
+    </ScrollView>
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/linear"
+        android:background="@color/cardview_light_background"
+        android:orientation="horizontal"
+        >
+
+        <Button
+            android:id="@+id/Pdf"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Export as PDF"
+            style="?android:attr/borderlessButtonStyle"
+            />
+
+        <Button
+            android:id="@+id/xls"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Export as XLS"
+            style="?android:attr/borderlessButtonStyle"
+            />
+
+        <Button
+            android:id="@+id/previous"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="120dp"
+
+            android:text="Previous" />
+
+        <Button
+            android:id="@+id/next"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Next"
+            style="?android:attr/borderlessButtonStyle"
+            />
+
+        <Button
+            android:id="@+id/configure"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:text="Process"
+            android:visibility="invisible" />
+
+        <Button
+            android:id="@+id/mark"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:text="Mark"
+            android:visibility="invisible"
+            />
+        <!--        <ImageView-->
+        <!--            android:layout_width="wrap_content"-->
+        <!--            android:layout_height="wrap_content"-->
+        <!--            android:id="@+id/imff"-->
+        <!--            android:contentDescription="hello"/>-->
+
+
+
+
+    </LinearLayout>
+
+
+
+</RelativeLayout>
